@@ -1,0 +1,18 @@
+#Page {
+    background-image: url("../images/trivia.jpg");
+    background-color: #EDECEC ;
+    padding: 20px 5px 200px 10px;
+    height: 1000px;
+}
+
+.Container{
+
+    background-color: lightblue ;
+    width: 60%;
+    height: 30%;
+    padding: 25px;
+    margin: 25px 25px 25px 25px;
+    color:black;
+    border:2px solid #000000;
+
+}
